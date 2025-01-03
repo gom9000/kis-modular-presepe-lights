@@ -20,9 +20,8 @@ This simple configuration is capable to drive a LED string that has a drop volta
 ![image](resources/led-driver-module-schematic.jpg)
 
 The output current of this circuit is:
-$$
-I_{out} = 1.25/R_{s}
-$$
+
+$$ I_{out} = 1.25/R_{s} $$
 
 
 ### Intermittence Module
