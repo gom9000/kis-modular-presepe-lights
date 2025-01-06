@@ -29,7 +29,7 @@ A variable frequency astable multivibrator that acts as intermittence, implement
 
 ![image](resources/intermittence-module-schematic.jpg)
 
-A rectangular voltage signal, of approximately $Vout = Vcc-1.5V$, is obtained as output.
+A rectangular voltage signal of approximately $Vout = Vcc-1.5V$ is obtained as output.
 <br/>
 Circuit timing equations are:
 
@@ -70,7 +70,7 @@ $$ white \sim 3.2 - 4.0 $$
 
 
 ## Boards
-todo...
+[Mixed 7-Line Board](boards/mixed-7-board) implements a board with 2 fixed light lines, 4 intermittence lines and a firelight line.
 
 
 
