@@ -70,7 +70,8 @@ $$ white \sim 3.2 - 4.0 $$
 
 
 ## Boards
-[Mixed 7-Line Board](boards/mixed-7-board) implements a board with 2 fixed light lines, 4 intermittence lines and a firelight line.
+- [Intermittence 1-Line Board](boards/intermittence-1-board) implements a single line intermittence board.
+- [Mixed 7-Line Board](boards/mixed-7-board) implements a board with 2 fixed light lines, 4 intermittence lines and a firelight line.
 
 
 
