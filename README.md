@@ -70,8 +70,9 @@ $$ white \sim 3.2 - 4.0 $$
 
 
 ## Boards
-- [Intermittence 1-Line Board](boards/intermittence-1-board) implements a single line intermittence board.
-- [Mixed 7-Line Board](boards/mixed-7-board) implements a board with 2 fixed light lines, 4 intermittence lines and a firelight line.
+- [Tiny Board](boards/tiny-board) implements a single line intermittence board.
+- [Small Board](boards/small-board) implements a configurable board with 1 intermittence module capable of drive 2 LED-strings.
+- [Medium Board](boards/medium-board) implements a configurable board with 3 intermittence modules capable of drive 5 LED-strings, plus a firelight set.
 
 
 

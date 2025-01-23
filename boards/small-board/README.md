@@ -1,18 +1,17 @@
-# *Mixed 7-Line* Board
-Mixed lights board capable of drive 6 LED-strings and a firelight set.
-The light intensity can be varied via trimmers T5-T10,
-and the period of intermittence can be varied using the T1-T4 trimmers, between about 5 and 20 seconds. 
-The firelight set consists of a fixed LED output (red?), and a tremolo LED output (orange?).
+# *Small* Board
+Configurable board with 1 intermittence module capable of drive 2 LED-strings.
+The light intensity can be varied via trimmer T1,
+and the period of intermittence can be varied using the T2 trimmer, between about 5 and 20 seconds. 
 
-![board-built](mixed-7-board_built.jpg)
+![board-built](small-board_built.jpg)
 
 
 ## Schematic
-![board-schematic](mixed-7-board_sch.jpg)
+![board-schematic](small-board_sch.jpg)
 
 
 ## PCB Layout
-![board-pcb](mixed-7-board_pcb.jpg)
+![board-pcb](small-board_pcb.jpg)
 
 
 ## Bill of Materials

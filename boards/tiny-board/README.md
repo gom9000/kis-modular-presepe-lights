@@ -1,17 +1,17 @@
-# *Intermittence 1-line* Board
+# *Tiny* Board
 Single line intermittence board.
 The light intensity can be varied via trimmer T5,
 and the period of intermittence can be varied using T1trimmer, between about 5 and 20 seconds.
 
-![board-built](intermittence-1-board_built.jpg)
+![board-built](tiny-board_built.jpg)
 
 
 ## Schematic
-![board-schematic](intermittence-1-board_sch.jpg)
+![board-schematic](tiny-board_sch.jpg)
 
 
 ## PCB Layout
-![board-pcb](intermittence-1-board_pcb.jpg)
+![board-pcb](tiny-board_pcb.jpg)
 
 
 ## Bill of Materials
