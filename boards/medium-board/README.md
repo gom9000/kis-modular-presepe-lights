@@ -36,7 +36,7 @@ The firelight set consists of a fixed LED output and a tremolo LED output (red+o
 - [x] 3 x 100nF capacitors 25V
 - [x] 3 x 10nF capacitors 25V
 - [x] DC male power connector 2.1mm
-- [x] 5 x 2-pin screw terminal block 2.5mm
-- [x] 3-pin screw terminal block 2.5mm
+- [x] 5 x 2-pin screw terminal block 5mm
+- [x] 3-pin screw terminal block 5mm
 - [x] 2-pin header
 

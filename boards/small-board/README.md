@@ -27,5 +27,5 @@ The intermittence module can be plugget to none, one or both the drivers via J1/
 - [x] 1 x 100nF capacitors 25V
 - [x] 1 x 10nF capacitors 25V
 - [x] DC male power connector 2.1mm
-- [x] 2-pin screw terminal block 2.5mm
+- [x] 2-pin screw terminal block 5mm
 - [x] 2-pin header

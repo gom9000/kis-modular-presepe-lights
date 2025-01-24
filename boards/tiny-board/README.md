@@ -26,6 +26,6 @@ and the period of intermittence can be varied using T1 trimmer, between about 5 
 - [x] 100nF capacitors 25V
 - [x] 10nF capacitors 25V
 - [x] DC male power connector 2.1mm
-- [x] 2-pin screw terminal block 2.5mm
+- [x] 2-pin screw terminal block 5mm
 - [x] 2-pin header
 
