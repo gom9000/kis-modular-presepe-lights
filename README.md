@@ -1,4 +1,4 @@
-# *Do It Simple*
+# *Keep It Simple*
 
 # Modular Presepe Lights
 A set of simple modular circuits for the lighting of the presepe.
@@ -7,7 +7,7 @@ The idea is to make a very simple lights controller, with a modular approach dep
 
 ![overview](resources/overview.jpg)
 
-The concept behind *Do-It-Simple* is to build simple solutions using only a few general-purpose, easy-to-manage components, without MCUs or programmable devices.
+The concept behind *Keep-It-Simple* is to build simple solutions using only a few general-purpose, easy-to-manage components, without MCUs or programmable devices.
 
 
 
