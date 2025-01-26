@@ -2,6 +2,7 @@
 Single line intermittence board.
 The light intensity can be varied via trimmer T2,
 and the period of intermittence can be varied using T1 trimmer, between about 5 and 20 seconds.
+The intermittence can be enable or disable by J1.
 
 ![board-built](tiny-board_built.jpg)
 

@@ -2,7 +2,7 @@
 Configurable board with 1 intermittence module capable of drive 2 LED-strings.
 The light intensity can be varied via trimmers T2/T3,
 and the period of intermittence can be varied using the T1 trimmer, between about 5 and 20 seconds.
-The intermittence module can be plugget to none, one or both the drivers via J1/J2 jumpers.
+The intermittence module can be plugged to none, one or both the drivers via J1/J2 jumpers.
 
 ![board-built](small-board_built.jpg)
 

@@ -70,7 +70,7 @@ $$ white \sim 3.2 - 4.0 $$
 
 
 ## Boards
-- [Tiny Board](boards/tiny-board) implements a single line intermittence board.
+- [Tiny Board](boards/tiny-board) implements a single line configurable intermittence board.
 - [Small Board](boards/small-board) implements a configurable board with 1 intermittence module capable of drive 2 LED-strings.
 - [Medium Board](boards/medium-board) implements a configurable board with 3 intermittence modules capable of drive 5 LED-strings, plus a firelight set.
 

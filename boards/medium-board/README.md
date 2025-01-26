@@ -3,6 +3,7 @@ Board with 3 configurable intermittence modules capable of drive 5 LED-strings, 
 The light intensity can be varied via trimmers T4-T8,
 and the period of intermittence can be varied using the T1-T3 trimmers, between about 5 and 20 seconds. 
 The firelight set consists of a fixed LED output and a tremolo LED output (red+orange?).
+The intermittence modules can be plugged to none, one or two drivers by J1-J5 jumpers.
 
 ![board-built](medium-board_built.jpg)
 
@@ -16,7 +17,7 @@ The firelight set consists of a fixed LED output and a tremolo LED output (red+o
 
 
 ## Bill of Materials
-- [x] paperboard 7x10cm
+- [x] paperboard 7x9cm
 - [x] 3 x IC 555 timer
 - [x] 5 x IC LM317 3-terminal adjustable regulator
 - [x] 3 x Transistor BJT NPN for low current
