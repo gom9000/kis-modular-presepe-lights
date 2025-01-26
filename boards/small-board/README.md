@@ -23,7 +23,8 @@ The intermittence module can be plugged to none, one or both the drivers via J1/
 - [x] 2 x 51ohm resistors 1/4 watt
 - [x] 2 x 1Kohm trimmers
 - [x] 1 x 220Kohm trimmers
-- [x] 2 x 10uF electrolytic capacitors 25V
+- [x] 47uF electrolytic capacitors 25V
+- [x] 10uF electrolytic capacitors 25V
 - [x] 1 x 100nF capacitors 25V
 - [x] 1 x 10nF capacitors 25V
 - [x] DC male power connector 2.1mm

@@ -32,7 +32,8 @@ The intermittence modules can be plugged to none, one or two drivers by J1-J5 ju
 - [x] 5 x 1Kohm trimmers
 - [x] 3 x 220Kohm trimmers
 - [x] 470uF electrolytic capacitors 25V
-- [x] 4 x 10uF electrolytic capacitors 25V
+- [x] 3 x 47uF electrolytic capacitors 25V
+- [x] 10uF electrolytic capacitors 25V
 - [x] 2 x 2.2uF electrolytic capacitors 25V
 - [x] 3 x 100nF capacitors 25V
 - [x] 3 x 10nF capacitors 25V

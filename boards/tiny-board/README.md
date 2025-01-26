@@ -23,7 +23,8 @@ The intermittence can be enable or disable by J1.
 - [x] 51ohm resistors 1/4 watt
 - [x] 1Kohm trimmer
 - [x] 220Kohm trimmer
-- [x] 2 x 10uF electrolytic capacitors 25V
+- [x] 47uF electrolytic capacitors 25V
+- [x] 10uF electrolytic capacitors 25V
 - [x] 100nF capacitors 25V
 - [x] 10nF capacitors 25V
 - [x] DC male power connector 2.1mm
