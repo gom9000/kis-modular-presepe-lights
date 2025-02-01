@@ -16,17 +16,17 @@ The intermittence module can be plugged to none, one or both the drivers via J1/
 
 
 ## Bill of Materials
-- [x] paperboard 4x6cm
+- [x] paperboard 3x7cm (10x24 holes)
 - [x] 1 x IC 555 timer
 - [x] 2 x IC LM317 3-terminal adjustable regulator
 - [x] 2 x 47Kohm resistors 1/4 watt
 - [x] 2 x 51ohm resistors 1/4 watt
 - [x] 2 x 1Kohm trimmers
 - [x] 1 x 220Kohm trimmers
-- [x] 47uF electrolytic capacitors 25V
-- [x] 10uF electrolytic capacitors 25V
-- [x] 1 x 100nF capacitors 25V
-- [x] 1 x 10nF capacitors 25V
+- [x] 47uF electrolytic capacitor 25V
+- [x] 10uF electrolytic capacitor 25V
+- [x] 1 x 100nF capacitor 25V
+- [x] 1 x 10nF capacitor 25V
 - [x] DC male power connector 2.1mm
 - [x] 2-pin screw terminal block 5mm
 - [x] 2-pin header
