@@ -1,4 +1,5 @@
 # *Keep It Simple*
+The concept behind *Keep-It-Simple* is to build simple solutions using only a few general-purpose, easy-to-manage components, without MCUs or programmable devices... solder & play!
 
 # Modular Presepe Lights
 A set of simple modular circuits for the lighting of the presepe.
@@ -6,8 +7,6 @@ A set of simple modular circuits for the lighting of the presepe.
 The idea is to make a very simple lights controller, with a modular approach depending on the needs, to drive low-current (and short) LED strings, with an external supply voltage between 12 and 15 VDC.
 
 ![overview](resources/overview.jpg)
-
-The concept behind *Keep-It-Simple* is to build simple solutions using only a few general-purpose, easy-to-manage components, without MCUs or programmable devices.
 
 
 
