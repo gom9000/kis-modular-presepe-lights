@@ -54,17 +54,17 @@ A series of max 4 or 5 small-current LEDs. The maximum drop voltage must be less
 
 Typical (but very very indicative) LED voltage drop, based on color, are:
 
-$$ red \sim 1.6 - 2.0 $$
+$$ red \sim (1.6 - 2.0)V $$
 
-$$ orange \sim 2.0 $$
+$$ orange \sim 2.0V $$
 
-$$ yellow \sim 2.0 $$
+$$ yellow \sim 2.0V $$
 
-$$ green \sim 1.9 - 4.0 $$
+$$ green \sim (1.9 - 4.0)V $$
 
-$$ blu \sim 2.5 - 3.7 $$
+$$ blu \sim (2.5 - 3.7)V $$
 
-$$ white \sim 3.2 - 4.0 $$
+$$ white \sim (3.2 - 4.0)V $$
 
 
 
